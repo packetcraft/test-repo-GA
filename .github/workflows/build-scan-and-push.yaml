@@ -1,7 +1,7 @@
 env:
     SYSDIG_SECURE_ENDPOINT: "https://eu1.app.sysdig.com"
     REGISTRY_HOST: "quay.io"
-    IMAGE_NAME: "myubuntutestimage"
+    IMAGE_NAME: "myalpinetestimage"
     IMAGE_TAG: "005-tag"
     DOCKERFILE_CONTEXT: "github/test-repo-GA"
   
