@@ -3,7 +3,7 @@ env:
     REGISTRY_HOST: "quay.io"
     IMAGE_NAME: "myalpinetestimage"
     IMAGE_TAG: "005"
-    DOCKERFILE_CONTEXT: "github/test-repo-GA"
+    DOCKERFILE_CONTEXT: "github.com/packetcraft/test-repo-GA"
   
 name: Container build, scan and push
 
